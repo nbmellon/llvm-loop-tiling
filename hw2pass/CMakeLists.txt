@@ -1,0 +1,1 @@
+add_llvm_pass_plugin(HW2Pass hw2pass.cpp)
